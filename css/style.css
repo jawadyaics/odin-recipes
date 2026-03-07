@@ -1,0 +1,23 @@
+body {
+    color : #5d6063;
+    background-color: #fff;
+    font-size : 18px;
+}
+
+h1 {
+    font-size : 2em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+
+
+a {
+    text-decoration: none;  /* Deletes underline from links */
+}
+
+p {
+    text-align: left;
+}
